@@ -1,4 +1,4 @@
-<h1>
+h1
 {
   font-family: arial verdana sans-serif;
   font-size: 20px;
@@ -6,7 +6,7 @@
   text-align: center;
 }
 
-<a>
+a
 {
   text-decoration: none;
   font-family: arial verdana sans-serif;
@@ -14,7 +14,7 @@
   background-color: #ffffff;
 }
 
-<a>.hover
+a.hover
 {
   text-decoration: underline;
   font-family: arial verdana sans-serif;
