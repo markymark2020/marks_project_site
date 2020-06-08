@@ -1,1 +1,23 @@
+<h1>
+{
+  font-family: arial verdana sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
 
+<a>
+{
+  text-decoration: none;
+  font-family: arial verdana sans-serif;
+  font-size: 14px;
+  background-color: #ffffff;
+}
+
+<a>.hover
+{
+  text-decoration: underline;
+  font-family: arial verdana sans-serif;
+  font-size: 14px;
+  background-color: #1c1c1c1;
+}
